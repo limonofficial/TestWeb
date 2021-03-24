@@ -1,0 +1,24 @@
+
+body{
+    background: palegreen;
+}
+h1{
+    color: blue;
+}
+h2{
+    color: indigo;
+}
+li{
+    color: crimson;
+    font: courier;
+}
+table, td, th {
+    border: 1px solid black;
+    width: 600px;
+    text-align: left;
+    border-collapse: collapse;
+    background-color: white;
+}
+a{
+    font-size: 125%;
+}
